@@ -1,6 +1,6 @@
 hello, atguigu! 2222222222222222222
-hello, atguigu! print("hello world")
-hello, atguigu! print("Python language")
+hello, atguigu!
+hello, atguigu!
 hello, atguigu!
 hello, atguigu!
 hello, atguigu!
